@@ -1,8 +1,8 @@
-Milch;1.49
-Brot;1.99
-Butter;2.29
-Reis;3.99
-Wasser;3.16
-Tomaten;2.22
-Spaghetti;0.88
-Zwiebeln;2.49
+Milch 1,49
+Brot 1,99
+Butter 2,29
+Reis 3,99
+Wasser 3,16
+Tomaten 2,22
+Spaghetti 0,88
+Zwiebeln 2,49
